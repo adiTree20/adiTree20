@@ -17,25 +17,25 @@
 ## experience
 
 **meta** &nbsp;<sub>software engineer intern, whatsapp core calling networking</sub><br>
-<sub>summer 2026 &nbsp;·&nbsp; menlo park, ca</sub>
+<sub>jun 2026 – aug 2026 &nbsp;·&nbsp; menlo park, ca</sub>
 > built a hop-by-hop data channel for whatsapp voip that enables real-time ai participation in group
 > calls. worked across client and server transport in c and c++, tracing a packet's full lifecycle
 > through sctp framing, dtls encryption, relay server election, and server-side media orchestration.
 > the architecture had to preserve end-to-end encryption and end-to-end reliability at once.
 
 **john deere** &nbsp;<sub>software engineer, part-time student</sub><br>
-<sub>2025 &nbsp;·&nbsp; chicago, il</sub>
+<sub>jan 2025 – dec 2025 &nbsp;·&nbsp; chicago, il</sub>
 > built and deployed an mcp-inspired tool-calling orchestration system that allowed llms to
 > dynamically select and coordinate across multiple tools in production, alongside langchain and
 > rag pipelines operating over large manufacturing datasets.
 
 **cisco systems** &nbsp;<sub>software engineering intern</sub><br>
-<sub>2023 &nbsp;·&nbsp; san jose, ca</sub>
+<sub>jun 2023 – aug 2023 &nbsp;·&nbsp; san jose, ca</sub>
 > designed an installable go command-line interface from scratch for kosha, an api hub, including
 > a device authorization flow built on auth0.
 
 **carnegie mellon robotics institute** &nbsp;<sub>research intern</sub><br>
-<sub>2022 – 2024 &nbsp;·&nbsp; pittsburgh, pa</sub>
+<sub>sep 2022 – jun 2024 &nbsp;·&nbsp; pittsburgh, pa</sub>
 > developed a human-body detection system that handles occlusion using a zed2i stereo camera and
 > extended kalman filters, supporting safe collaboration in shared human-robot workspaces.
 > presented and awarded at isas, ijas, and imsaloquium.
@@ -57,13 +57,16 @@
 ## toolkit
 
 <sub>languages</sub><br>
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/sql-336791?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/sql-336791?style=flat-square&logo=postgresql&logoColor=white">
 
 <sub>systems</sub><br>
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/grpc-244C5A?style=flat-square&logo=trpc&logoColor=white"> <img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+
+<sub>data</sub><br>
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/opensearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"> <img src="https://img.shields.io/badge/pinecone-1C17FF?style=flat-square&logo=pinecone&logoColor=white">
 
 <sub>ai</sub><br>
-<img src="https://img.shields.io/badge/langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/mcp-D97757?style=flat-square&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/pinecone-1C17FF?style=flat-square&logo=pinecone&logoColor=white">
+<img src="https://img.shields.io/badge/langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/mcp-D97757?style=flat-square&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 
 ## beyond
 
