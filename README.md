@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <i>computer science at the university of illinois urbana-champaign, b.s. + m.c.s.</i>
+  <i>computer science at the university of illinois urbana-champaign, b.s. + m.c.s. '28</i>
 </p>
 
 ## experience
